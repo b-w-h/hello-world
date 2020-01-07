@@ -1,2 +1,2 @@
 # hello-world
-Hello repo
+If it says README, read it, if is says DRINKME ... drink it!
